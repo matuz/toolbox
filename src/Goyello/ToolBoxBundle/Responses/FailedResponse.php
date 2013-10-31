@@ -1,9 +1,9 @@
 <?php
-namespace Goyello\ToolBoxBundle\Interactors;
+namespace Goyello\ToolBoxBundle\Responses;
 
 /**
  * Class FailedResponse
- * @package Goyello\ToolBoxBundle\Interactors
+ * @package Goyello\ToolBoxBundle\Responses
  */
 class FailedResponse extends Response
 {

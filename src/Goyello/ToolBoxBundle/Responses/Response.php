@@ -1,9 +1,9 @@
 <?php
-namespace Goyello\ToolBoxBundle\Interactors;
+namespace Goyello\ToolBoxBundle\Responses;
 
 /**
  * Base data structure class, carry data from interactors to controllers or other interactors.
- * @package Goyello\ToolBoxBundle\Interactors
+ * @package Goyello\ToolBoxBundle\Responses
  */
 class Response
 {
